@@ -1,6 +1,6 @@
 # Summary
 
-This repository contains the implementation of the most commonly used sorting algorithms in C++. Each algorithm demonstrates a different approach to arranging data in ascending or descending order. The collection includes algorithms such as Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, Heap Sort, and other standard sorting techniques. Every implementation is designed to be simple, easy to understand, and suitable for learning the fundamentals of Data Structures and Algorithms (DSA).
+This repository contains the implementation of the most commonly used sorting algorithms in python. Each algorithm demonstrates a different approach to arranging data in ascending or descending order. The collection includes algorithms such as Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, Heap Sort, and other standard sorting techniques. Every implementation is designed to be simple, easy to understand, and suitable for learning the fundamentals of Data Structures and Algorithms (DSA).
 
 # Conclusion
 
