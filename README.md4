@@ -1,0 +1,7 @@
+Summary
+
+The factorial of a number was implemented using two different methods: Iterative and Recursive. In the iterative method, a loop is used to multiply numbers from 1 to n. In the recursive method, the function repeatedly calls itself with n-1 until it reaches the base case 0 or 1. The program also accepts user input and measures the execution time of both methods using Python's time.perf_counter_ns().
+
+Conclusion
+
+Both methods produce the same factorial result. The iterative method has a time complexity of O(n) and space complexity of O(1), making it more memory efficient. The recursive method also has a time complexity of O(n) but requires O(n) space because of recursive function calls stored in the call stack. Therefore, the iterative method is generally more efficient in terms of memory, while the recursive method provides a simple and clear representation of the factorial algorithm.
