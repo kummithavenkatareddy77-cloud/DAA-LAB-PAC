@@ -1,0 +1,7 @@
+Summary
+
+The Making Change problem is solved using Dynamic Programming to find the minimum number of coins required to make a given amount. The program accepts the number of coins, coin denominations, and target amount as user input.
+
+Conclusion
+
+The Dynamic Programming approach provides an efficient solution to the Making Change problem, especially when coin denominations do not allow a greedy approach to produce the optimal result. By storing previously calculated results, the program avoids repeated calculations and finds the minimum number of coins efficiently. Measuring the execution time also helps evaluate the practical performance of the algorithm.
