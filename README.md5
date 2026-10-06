@@ -1,0 +1,7 @@
+##Summary
+
+The 0/1 Knapsack Problem was implemented using the Dynamic Programming technique in Python. The program accepts the number of items, their weights, values, and the maximum capacity of the knapsack from the user. A dynamic programming table is used to calculate the maximum possible value without exceeding the given capacity. The program also identifies the selected items and displays the execution time. The time complexity of the algorithm is O(n × W) and the space complexity is O(n × W), where n is the number of items and W is the knapsack capacity.
+
+##Conclusion
+
+The implementation demonstrates how Dynamic Programming can efficiently solve the 0/1 Knapsack Problem by breaking it into smaller overlapping subproblems and storing their solutions. Compared with a brute-force approach, dynamic programming avoids repeated calculations and provides an efficient solution.
