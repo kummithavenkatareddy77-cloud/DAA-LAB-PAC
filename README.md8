@@ -1,0 +1,7 @@
+##Summary
+
+The Graph Traversal program was implemented using Depth First Search (DFS) and Breadth First Search (BFS) in Python. The graph is represented using an adjacency list, and the user can enter the vertices, edges, and starting vertex. DFS explores the graph by going deep into each branch, while BFS explores the graph level by level. The program also displays the traversal order, execution time, and complexity of both algorithms.
+
+##Conclusion
+
+The implementation demonstrates the practical use of DFS and BFS algorithms for graph traversal. DFS is useful when deep exploration and backtracking are required, while BFS is useful for level-wise traversal and finding the shortest path in an unweighted graph. Both algorithms have a time complexity of O(V + E) and space complexity of O(V). Thus, DFS and BFS are fundamental and efficient techniques for searching and processing graph-based data.
