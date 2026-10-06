@@ -1,0 +1,7 @@
+##Summary
+
+The Matrix Chain Multiplication problem was implemented using Dynamic Programming in Python. The program accepts the number of matrices and their dimensions as user input. It calculates different possible multiplication orders and uses a DP table to find the order requiring the minimum number of scalar multiplications. The program also displays the optimal parenthesization, execution time, time complexity, and space complexity.
+
+##Conclusion
+
+The implementation demonstrates how Dynamic Programming can efficiently solve the Matrix Chain Multiplication problem by avoiding repeated calculations of overlapping subproblems. Although the order of matrices remains unchanged, selecting the correct parenthesization can significantly reduce the number of operations required. The algorithm has a time complexity of O(n³) and a space complexity of O(n²), making it much more efficient than checking every possible multiplication order individually.
