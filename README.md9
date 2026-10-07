@@ -1,0 +1,5 @@
+##Summary
+Prim’s Algorithm is a greedy algorithm used to find the Minimum Spanning Tree (MST) of a connected, weighted, and undirected graph. It starts with any vertex and repeatedly selects the minimum-weight edge that connects a vertex in the MST to a vertex outside it. The algorithm continues until all vertices are included in the MST.
+
+##Conclusion
+Prim’s Algorithm provides an efficient way to construct a Minimum Spanning Tree by making a locally optimal choice at each step. It is useful for problems such as network design, connecting cities, and communication infrastructure with minimum total cost. The implementation successfully finds the MST and its total weight from a user-provided graph.
