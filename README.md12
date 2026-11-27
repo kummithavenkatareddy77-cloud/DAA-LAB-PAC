@@ -1,0 +1,4 @@
+Summary
+The Travelling Salesman Problem is a combinatorial optimization problem used to find the shortest possible route that visits all cities exactly once and returns to the starting city. Dynamic programming with memoization reduces repeated calculations and is more efficient than checking all possible routes individually.
+Conclusion
+The Travelling Salesman Problem was implemented using dynamic programming in Python. The program accepts a distance matrix from the user and computes the minimum travel cost. Dynamic programming improves efficiency by storing previously calculated results, though the algorithm still has exponential complexity.
